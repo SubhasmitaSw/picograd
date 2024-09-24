@@ -1,5 +1,5 @@
 import random
-from engine import *
+from picograd.engine import *
 
 class Neuron:
     def __init__(self, nin):
