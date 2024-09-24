@@ -18,7 +18,7 @@ We called it "pico" for the same reason you might call your gaming PC a "little 
 
 PicoGrad can be used to build, train neural networks and visualize the computational graph.
 
-![trained model](./graphs/trained_model.png)
+![trained model](./graph/trained_model.png)
 
 
 ## Distributed Tensor Support
@@ -37,7 +37,10 @@ print(data)
 
 PicoGrad includes graph optimization techniques to improve computational efficiency:
 
+#### Initial Graph
 
-![initial graph](./graphs/initial_graph.png)
+![initial graph](./graph/initial_graph.png)
 
-![optimized graph](./graphs/optimized_graph.png)
+#### Optimized Graph
+
+![optimized graph](./graph/optimized_graph.png)
