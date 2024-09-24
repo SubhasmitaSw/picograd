@@ -1,0 +1,8 @@
+# ignore pycache
+__pycache__
+
+# ignore venv
+.venv
+
+# ignore graphs
+graphs
